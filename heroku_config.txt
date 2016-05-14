@@ -1,0 +1,45 @@
+=============================================
+ Showing all Authentication Providers
+---------------------------------------------
+  name facebook
+     key: your_facebook_app_key
+     secret: your_facebook_app_secret
+     path: facebook
+
+
+=============================================
+ Showing all entries in Configuration Table...
+---------------------------------------------
+  secret_token: 91cb673bcbb5e0eb4edf8299b2bb069af09e2ffc3fcf5af079a1c3e9da864625f0e387f2758fb426519b3d049b490c698f9517bcaec3541d883d2adc22c0186b
+  secret_key_base: 00d380d4a2623a2179c7161649f718b719b63b97ded4485daba8e9607fa4247b4600b3b320431f74329b61204daaad44ff50876a5547dfbc6a30ff1f4d09ab49
+  company_name: Catarse
+  company_logo: http://catarse.me/assets/catarse_bootstrap/logo_icon_catarse.png
+  host: catarse.me
+  base_url: http://catarse.me
+  email_contact: contato@catarse.me
+  email_payments: financeiro@catarse.me
+  email_projects: projetos@catarse.me
+  email_system: system@catarse.me
+  email_no_reply: no-reply@catarse.me
+  facebook_url: http://facebook.com/catarse.me
+  facebook_app_id: 173747042661491
+  twitter_url: http://twitter.com/catarse
+  twitter_username: catarse
+  mailchimp_url: http://catarse.us5.list-manage.com/subscribe/post?u=ebfcd0d16dbb0001a0bea3639&amp;id=149c39709e
+  catarse_fee: 0.13
+  support_forum: http://suporte.catarse.me/
+  base_domain: catarse.me
+  uservoice_secret_gadget: change_this
+  uservoice_key: uservoice_key
+  faq_url: http://suporte.catarse.me/
+  feedback_url: http://suporte.catarse.me/forums/103171-catarse-ideias-gerais
+  terms_url: http://suporte.catarse.me/knowledgebase/articles/161100-termos-de-uso
+  privacy_url: http://suporte.catarse.me/knowledgebase/articles/161103-pol%C3%ADtica-de-privacidade
+  about_channel_url: http://blog.catarse.me/conheca-os-canais-do-catarse/
+  instagram_url: http://instagram.com/catarse_
+  blog_url: http://blog.catarse.me
+  github_url: http://github.com/catarse
+  contato_url: http://suporte.catarse.me/
+---------------------------------------------
+Done!
+
