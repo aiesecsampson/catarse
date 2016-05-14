@@ -52,7 +52,7 @@ puts 'Seeding the database...'
   base_url: "http://catarse.me",
 
   email_contact: 'contato@catarse.me',
-  email_payments: 'financeiro@catarse.me',
+  email_payments: 'sampsontan@ymail.com',
   email_projects: 'projetos@catarse.me',
   email_system: 'system@catarse.me',
   email_no_reply: 'no-reply@catarse.me',
