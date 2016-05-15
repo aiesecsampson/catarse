@@ -52,7 +52,7 @@ puts 'Seeding the database...'
   base_url: "http://catarse.me",
 
   email_contact: 'contato@catarse.me',
-  email_payments: 'sampsontan@ymail.com',
+  email_payments: 'financeiro@catarse.me',
   email_projects: 'projetos@catarse.me',
   email_system: 'system@catarse.me',
   email_no_reply: 'no-reply@catarse.me',
@@ -83,18 +83,10 @@ puts 'Seeding the database...'
 end
 
 OauthProvider.find_or_create_by!(name: 'facebook') do |o|
-  o.key = '501481843251128'
-  o.secret = '6608484fa80ee524db47562749a51b66'
+  o.key = 'your_facebook_app_key'
+  o.secret = 'your_facebook_app_secret'
   o.path = 'facebook'
 end
-
-  ## by nic catarse-local-dev Facebook App
-  ##facebook = OauthProvider.find_or_initialize_by_name 'facebook'
-  ##facebook.update_attributes(
-  ##  key: '556758001037275',
-  ##  secret: '5b3a847321b426f9dabd011359a21400',
-  ##  path: 'facebook'
-  ##)
 
 puts
 puts '============================================='
