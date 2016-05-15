@@ -2,8 +2,8 @@
  Showing all Authentication Providers
 ---------------------------------------------
   name facebook
-     key: your_facebook_app_key
-     secret: your_facebook_app_secret
+     key: 501481843251128
+     secret: 6608484fa80ee524db47562749a51b66
      path: facebook
 
 
