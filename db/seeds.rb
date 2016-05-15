@@ -90,11 +90,11 @@ end
 
   ## by nic catarse-local-dev Facebook App
   ##facebook = OauthProvider.find_or_initialize_by_name 'facebook'
-  facebook.update_attributes(
-    key: '556758001037275',
-    secret: '5b3a847321b426f9dabd011359a21400',
-    path: 'facebook'
-  )
+  ##facebook.update_attributes(
+  ##  key: '556758001037275',
+  ##  secret: '5b3a847321b426f9dabd011359a21400',
+  ##  path: 'facebook'
+  ##)
 
 puts
 puts '============================================='
