@@ -63,7 +63,7 @@ puts 'Seeding the database...'
   mailchimp_url: "http://catarse.us5.list-manage.com/subscribe/post?u=ebfcd0d16dbb0001a0bea3639&amp;id=149c39709e",
   catarse_fee: '0.13',
   support_forum: 'http://suporte.catarse.me/',
-  base_domain: 'catarse.me',
+  base_domain: 'crowdfund201605141830.herokuapp.com',
   uservoice_secret_gadget: 'change_this',
   uservoice_key: 'uservoice_key',
   faq_url: 'http://suporte.catarse.me/',
@@ -83,8 +83,8 @@ puts 'Seeding the database...'
 end
 
 OauthProvider.find_or_create_by!(name: 'facebook') do |o|
-  o.key = 'your_facebook_app_key'
-  o.secret = 'your_facebook_app_secret'
+  o.key = '1150283815002192'
+  o.secret = '22bd78a5492ba75a17c063d6037b6b9f'
   o.path = 'facebook'
 end
 
