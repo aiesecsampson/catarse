@@ -2,8 +2,8 @@
  Showing all Authentication Providers
 ---------------------------------------------
   name facebook
-     key: 501481843251128
-     secret: 6608484fa80ee524db47562749a51b66
+     key: 1150283815002192
+     secret: 22bd78a5492ba75a17c063d6037b6b9f
      path: facebook
 
 
